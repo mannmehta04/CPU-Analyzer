@@ -1,8 +1,4 @@
-pip install flask
-from flask import Flask, render_template, request, jsonify
-pip install pandas
-pip install pandas
-pip install matplotlib
-pip install scikit-learn
-pip install joblib
-import requests
+Flask==2.0.3
+joblib==1.1.0
+numpy==1.21.0  # Include the version if you have a specific one
+scikit-learn==0.24.2  # Include the version if you have a specific one
