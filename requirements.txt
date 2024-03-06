@@ -1,0 +1,8 @@
+pip install flask
+from flask import Flask, render_template, request, jsonify
+pip install pandas
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+pip install joblib
+import requests
